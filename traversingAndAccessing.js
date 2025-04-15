@@ -1,7 +1,7 @@
 // Traversing
 let data = [0, 1, 3, 45, 78, 97, 65, 443];
 
-for (i = 0; i < data?.length; i++) {
+for (let i = 0; i < data?.length; i++) {
   console.log(`Array ${i} element is ${data[i]}`);
 }
 //  for loop info
